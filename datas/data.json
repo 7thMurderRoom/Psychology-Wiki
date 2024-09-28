@@ -1,10 +1,12 @@
 [
   {
+    "id":1,
     "name": ["wiki"],
     "short_desc": "简短的描述支持markdown.ph",
     "wiki_mode": "telegraph"
   },
   {
+    "id":2,
     "name": ["普瑞巴林", "prbl"],
     "short_desc": "简短的描述支持markdown.ph",
     "wiki_mode": "telegraph"
